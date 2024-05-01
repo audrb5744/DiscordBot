@@ -1,0 +1,13 @@
+
+{
+    "quizList":[
+        {"quiz": "a","answer": "1" },
+        {"quiz": "b","answer": "2" },
+        {"quiz": "c","answer": "3" },
+        {"quiz": "d","answer": "4" },
+        {"quiz": "e","answer": "5" }
+        
+        
+    ]
+	
+}
